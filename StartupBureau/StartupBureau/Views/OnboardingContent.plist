@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Wat is StartUp Bureau?</string>
+		<key>content</key>
+		<string>Start Up Bureau helpt (jonge) ondernemers met het beginnen van hun onderneming. 
+Wij bieden businessplannen en coaching aan voor ondernemingen in verschillende branches. </string>
+		<key>sfSymbol</key>
+		<string>launchscreen_1</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hoe zien onze businessplannen er uit?</string>
+		<key>content</key>
+		<string>Een businessplan bestaat uit verschillende stappen die jou helpen met het opzetten van je onderneming, hieronder zie je een voorbeeld uit ons businessplan voor een bakker:</string>
+		<key>sfSymbol</key>
+		<string>launchscreen_2</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hoe zien de stappen in onze businessplannen er uit?</string>
+		<key>content</key>
+		<string>De stappen in het businessplan helpen jou met het opzetten van je onderneming, ze zien er als volgt uit:</string>
+		<key>sfSymbol</key>
+		<string>launchscreen_3</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Kom je er bij het uitvoeren van een stap toch niet helemaal uit? </string>
+		<key>content</key>
+		<string>Dan staan onze coaches voor je klaar via de chat.</string>
+		<key>sfSymbol</key>
+		<string>launchscreen_4</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Geïnteresseerd geraakt?</string>
+		<key>content</key>
+		<string>Meld je aan door op de knop te drukken!</string>
+		<key>sfSymbol</key>
+		<string>launchscreen_5</string>
+	</dict>
+</array>
+</plist>
